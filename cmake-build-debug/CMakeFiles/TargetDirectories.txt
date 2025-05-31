@@ -1,0 +1,3 @@
+/mnt/c/Users/andre/CLionProjects/Labka2/cmake-build-debug/CMakeFiles/Labka2.dir
+/mnt/c/Users/andre/CLionProjects/Labka2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/andre/CLionProjects/Labka2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
