@@ -25,3 +25,7 @@ strace на сервере
 ![image](https://github.com/user-attachments/assets/a7981fd7-a3ae-4112-be3a-6d91b85f99ee)
 
 
+/proc
+
+![image](https://github.com/user-attachments/assets/674f3bb8-5863-4399-8cee-717a0af10657)
+
